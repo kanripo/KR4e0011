@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 翠屏集
-#+DATE: 2020-03-31 11:36:17.768349
+#+DATE: 2020-03-31 11:36:17.884188
 #+PROPERTY: ID KR4e0011
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 1
 <pb:KR4e0011_WYG_001-1a>¶
 　　欽定四庫全書¶
@@ -572,7 +572,7 @@
 ¶
 <pb:KR4e0011_WYG_001-25b>¶
 　　孫君憲府之白眉拱璧瑩然廊廟姿往年少府寔初筮¶
-當道好官多見知鸂𪆟夜自金灘起騄駬曉上青天馳¶
+當道好官多見知鸂鶒夜自金灘起騄駬曉上青天馳¶
 淮霜秋清古栢樹海月夜白扶桑枝憲家宏綱甚照耀¶
 繡衣使者常嗟咨飛剡如雲集臺閣束書即日趨京師¶
 恭聞先公古遺愛只今古道人猶思高門翼翼後必大¶
